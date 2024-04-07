@@ -9,10 +9,6 @@
    ![](https://img.shields.io/github/repo-size/shsarv/TravelYaari-react)
    ![](https://img.shields.io/tokei/lines/github/shsarv/TravelYaari-react?color=orange&logoColor=blue&style=flat-circle)
 
-This Project is live at --------> **[https://travelyaari.herokuapp.com](https://travelyaari.herokuapp.com)**
-
-***[Mentor: Pankaj Kapoor](https://github.com/pankkap)***
-
 <hr />
 
       
@@ -169,10 +165,10 @@ phase-2 : ( 30 April 2021 - 10 May 2021 )
 ### How to run the project 🚀:
 
   1. Open the `Terminal`.
-  2. Clone the repository by entering `$ git clone https://github.com/shsarv/TravelYaari-react.git `.
+  2. Clone the repository by entering `$ git clone https://github.com/filipmariania/React-TravelYaari.git  `.
   3. Ensure that `NodeJS` and `npm` are installed on the system.
-  4. change the diectory to repository name using  `$ cd https://github.com/shsarv/TravelYaari-react`.
-  4. Create a `.env` file and write `REACT_APP_API_URL='your backend api url'`. look for backend of the project [here](https://github.com/shsarv/TravelYaari-api).
+  4. change the diectory to repository name using  `$ cd https://github.com/filipmariania/React-TravelYaari.git`.
+  4. Create a `.env` file and write `REACT_APP_API_URL='your backend api url'`. look for backend of the project [here](https://github.com/filipmariania/React-TravelYaari.git).
   5. install the dependencies by executing the follwing command: `$ npm install`.
   6. To run the React project. execute `$npm start`. and it will point to the `localhost` server with the port `3000`.
   8. Enter the `IP Address: http://localhost:3000` on a web browser and use the application. make sure that your backend api is running.
@@ -180,7 +176,7 @@ phase-2 : ( 30 April 2021 - 10 May 2021 )
 
 ### Dependencies <img src="https://www.flaticon.com/svg/static/icons/svg/2621/2621122.svg" width="24px">
 
-The following dependencies can be found in [package.json](https://github.com/shsarv/TravelYaari-react/blob/master/package.json):
+The following dependencies can be found in [package.json](https://github.com/filipmariania/React-TravelYaari.git/blob/master/package.json):
 
 ### Contributors <img src="https://www.flaticon.com/svg/static/icons/svg/1534/1534938.svg" width="24px">
 
